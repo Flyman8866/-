@@ -1,0 +1,9 @@
+.hvigor/
+**/.hvigor/
+node_modules/
+**/node_modules/
+build/
+**/build/
+.idea/
+.vscode/
+*.log
